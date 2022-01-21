@@ -1,0 +1,7 @@
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\bin\Debug\sum.cs.exe.config
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\bin\Debug\sum.cs.exe
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\bin\Debug\sum.cs.pdb
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\obj\Debug\sum.cs.csproj.AssemblyReference.cache
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\obj\Debug\sum.cs.csproj.CoreCompileInputs.cache
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\obj\Debug\sum.cs.exe
+C:\Users\2062919\GitPractice1\sum.cs\sum.cs\obj\Debug\sum.cs.pdb
